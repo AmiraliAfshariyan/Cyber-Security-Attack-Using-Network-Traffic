@@ -13,8 +13,12 @@ An intelligent, machine-learning-based system designed to **detect and classify 
 
 ---
 
-## 📊 Dataset Summary
-The project utilizes a dataset containing **100,000 network connection records** with the following key attributes:
+## 📊 Dataset Source & Summary
+The project utilizes the **Cyber Attack Detection Using Network Traffic** dataset, which is publicly available on Kaggle.
+
+🔗 **Dataset Link:** [Kaggle - Cyber Attack Detection Using Network Traffic](https://www.kaggle.com/datasets/juanschafle/cyber-attack-detection-using-network-traffic)
+
+The dataset contains **100,000 network connection records** with the following key attributes:
 - `duration`: The length of the network connection.
 - `src_bytes` & `dst_bytes`: The volume of data sent and received.
 - `packet_count`: The total number of packets exchanged.
